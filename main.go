@@ -7,6 +7,8 @@ func main() {
 
 	//Pointers()
 
-	StructsDemo()
+	//StructsDemo()
+
+	FunctionValues()
 
 }
