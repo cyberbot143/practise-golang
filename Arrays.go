@@ -4,6 +4,8 @@ import "fmt"
 
 func ArraysDemo() {
 	fmt.Println("**** Arrays & slices Demo ****")
+
+	// Arrays are value Types , they are not by reference
 	var x [5]int
 	var xLen = len(x)
 
